@@ -4,7 +4,7 @@ Just a repository holding standalone scripts for all kind of usages and using di
 
 The list of the scripts:
 
-- [random-pass/generate_random_password.sh](https://github.com/CloudinitFrance/helper-scripts/blob/main/random-pass/generate_random_password.sh): shell script for generating a random password
+- [random-pass/generate_random_password.sh](https://github.com/CloudinitFrance/helper-scripts/blob/main/random-pass/gen_random_password.sh): shell script for generating a random password
 
 
 ## License
